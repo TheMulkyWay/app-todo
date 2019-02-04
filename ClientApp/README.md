@@ -1,10 +1,10 @@
 # app_todo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+This project was generated with VISUAL STUDIO 2017 Angular Template and the [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server will only run the Client Code, this not just a client app, it is a Full Stack ASP.NET Core Restful Web API that will be deployed to Azure as part of a show case. 
 
 ## Code scaffolding
 
@@ -16,7 +16,9 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Unit Tests will also be added to backend API shortly, API is not deployed here. 
+Most of this Readme is autoigenerated and applies only to the Angular CLI 
+For Angular Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
 ## Running end-to-end tests
 
