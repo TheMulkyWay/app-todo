@@ -1,7 +1,7 @@
 # app_todo
 
 This project was generated with VISUAL STUDIO 2017 Angular Template and the [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
-
+This is part of an ASP.NET CORE 2.2 Web API talking to an Azure Hosted SQL Server persisting data from an Angular 6 Client App.
 ## Development server
 
 Run `ng serve` for a dev server will only run the Client Code, this not just a client app, it is a Full Stack ASP.NET Core Restful Web API that will be deployed to Azure as part of a show case. 
